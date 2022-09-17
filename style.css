@@ -33,3 +33,13 @@ input {
 #rBtn:hover {
     background-color: rgb(200, 73, 73);
 }
+
+div {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+img {
+    padding: 10px;
+    width: 30%;
+}
